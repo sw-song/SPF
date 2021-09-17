@@ -1,1 +1,1 @@
-# pattern_search
+# Stock Pattern Finder
