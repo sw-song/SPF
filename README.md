@@ -8,11 +8,11 @@
 - 최근 12일 그래프로 과거 12일치 그래프 비교
 - 코사인 유사도 기준 가장 유사한 구간 추출(cosine:0.47)
 
-<img src="https://github.com/sw-song/SPF/blob/main/readme_img/01_cosine_0.47.png" width="200" height="100">
+<img src="https://github.com/sw-song/SPF/blob/main/readme_img/01_cosine_0.47.png" width="300" height="150">
 
 - 과거 그래프에 5일 더 보여주기
 
-<img src="https://github.com/sw-song/SPF/blob/main/readme_img/01_add5days.png" width="200" height="100">
+<img src="https://github.com/sw-song/SPF/blob/main/readme_img/01_add5days.png" width="300" height="150">
 
 
 
